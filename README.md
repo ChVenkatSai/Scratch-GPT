@@ -12,5 +12,5 @@ This repository contains Scratch GPT, a Generative Pretrained Transformer model 
 # Training Data
 The model was trained on the text from the Gutenberg Project's version of Jane Austen's novel "Pride and Prejudice". This rich and nuanced text helps the model to learn and generate sophisticated language patterns.
 
-#Run
+# Run
 To use this project, open it colab and run it with a GPU.
